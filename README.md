@@ -7,4 +7,4 @@
 - файл .gitignore [gitignore](./gitognore.md)
 - ветвление
 - как создать репозиторий
-- официальная документация
+- официальная документация[GitHub](https://docs.github.com/en)
