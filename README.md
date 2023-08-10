@@ -2,7 +2,7 @@
 ## Инструкция по работе с [GitHub](https://github.com/)
 
 - что такое git [about](./about.md)
-- как установить на пк
+- как установить на пк [install](./install.md)
 - основные команды
 - файл .gitignore
 - ветвление
