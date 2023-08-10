@@ -6,5 +6,5 @@
 - основные команды [commands](./commands.md)
 - файл .gitignore [gitignore](./gitognore.md)
 - ветвление [branches](./branches.md)
-- как создать репозиторий
+- как создать репозиторий[repo](./repo.md)
 - официальная документация[GitHub](https://docs.github.com/en)
