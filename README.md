@@ -4,7 +4,7 @@
 - что такое git [about](./about.md)
 - как установить на пк [install](./install.md)
 - основные команды [commands](./commands.md)
-- файл .gitignore
+- файл .gitignore [gitignore](./gitognore.md)
 - ветвление
 - как создать репозиторий
 - официальная документация
