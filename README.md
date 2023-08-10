@@ -1,7 +1,7 @@
 ![Alt-GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png "GitHub")
 ## Инструкция по работе с [GitHub](https://github.com/)
 
-- что такое git
+- что такое git [about](./about.md)
 - как установить на пк
 - основные команды
 - файл .gitignore
