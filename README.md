@@ -3,7 +3,7 @@
 
 - что такое git [about](./about.md)
 - как установить на пк [install](./install.md)
-- основные команды
+- основные команды [commands](./commands.md)
 - файл .gitignore
 - ветвление
 - как создать репозиторий
