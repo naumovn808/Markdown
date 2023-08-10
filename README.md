@@ -10,5 +10,5 @@
 - как создать форк [fork](./fork.md)
 - markdown [markdown](./markdown.md)
 - официальная документация [GitHub](https://docs.github.com/en)
-- скринкасты по git[screencast](./screencast.md)
-- шпаргалка по git[crib](./crib.md)
+- скринкасты по git [screencast](./screencast.md)
+- шпаргалка по git [crib](./crib.md)
