@@ -5,6 +5,6 @@
 - как установить на пк [install](./install.md)
 - основные команды [commands](./commands.md)
 - файл .gitignore [gitignore](./gitognore.md)
-- ветвление
+- ветвление [branches](./branches.md)
 - как создать репозиторий
 - официальная документация[GitHub](https://docs.github.com/en)
